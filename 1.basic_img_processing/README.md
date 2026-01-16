@@ -1,0 +1,3 @@
+This experiment is aimed at studying and implementing basic image processing operations using MATLAB. In this experiment, a digital image is taken as input and various processing techniques such as image reading, grayscale conversion, filtering, and enhancement are applied using MATLAB functions.
+The objective of this experiment is to understand the fundamentals of digital image processing and to observe the effect of different operations on an image. MATLAB is used as the simulation and implementation platform due to its powerful image processing capabilities.
+This experiment helps in developing practical skills in MATLAB programming and provides a basic understanding of how image processing techniques are applied in real-world applications.
